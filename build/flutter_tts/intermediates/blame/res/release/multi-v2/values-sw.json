@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\bottomnav\\build\\flutter_tts\\intermediates\\res\\merged\\release\\values-sw\\values-sw.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nitin\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\2eb40f7215b4769b78c349f03f0fa057\\res\\values-sw\\values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\bottomnav\\build\\flutter_tts\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw\\values-sw.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nitin\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\2eb40f7215b4769b78c349f03f0fa057\\res\\values-sw\\values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
